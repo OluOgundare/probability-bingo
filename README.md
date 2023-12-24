@@ -21,7 +21,7 @@ Introduction: Lays the groundwork for the probability calculations used througho
 5. Conclusion: Summarizes the findings and implications for strategy in probability-based bingo games.
 
 ## Acknowledgements
-This report is a product of collaboration within the Operations Research and Informational Engineering Department at Cornell University. The authors express gratitude for the guidance and support received throughout the project. Final product received an A. 
+This report is a product of collaboration within the Operations Research and Informational Engineering Department at Cornell University. The authors express gratitude for the guidance and support received throughout the project. Final product received an A. <br>
 [Read the full report here](https://drive.google.com/file/d/13wmMNELudqDmzZL0l-1teYHXZIX7tvFW/view?usp=sharing)
 
 ## Contributors
