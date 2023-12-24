@@ -1,7 +1,7 @@
 # Probability Bingo
 
 ## Overview
-[From Brian Mehmed, 2011 WV APSI](http://noblestatman.com/uploads/6/6/7/3/66731677/probability_bingo.pdf)
+[From Brian Mehmed, 2011 WV APSI](http://noblestatman.com/uploads/6/6/7/3/66731677/probability_bingo.pdf) <br>
 Each of two die has colored faces, 3 green, 2 blue and 1 red. The two dice
 will be rolled. The outcome will be considered to be one “bingo call.” If you
 have this outcome on your bingo card, mark it off. The winner will be the
