@@ -22,7 +22,7 @@ Introduction: Lays the groundwork for the probability calculations used througho
 
 ## Acknowledgements
 This report is a product of collaboration within the Operations Research and Informational Engineering Department at Cornell University. The authors express gratitude for the guidance and support received throughout the project. Final product received an A. 
-[Read the full report here] (https://drive.google.com/file/d/13wmMNELudqDmzZL0l-1teYHXZIX7tvFW/view?usp=sharing)
+[Read the full report here](https://drive.google.com/file/d/13wmMNELudqDmzZL0l-1teYHXZIX7tvFW/view?usp=sharing)
 
 ## Contributors
 - Eddie Ramirez (ebr66@cornell.edu)
